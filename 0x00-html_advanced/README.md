@@ -20,4 +20,5 @@ Frontend Development for ALX SE Program
 * [Div](./15-index.html)
 * [Structure your sections](./16-index.html)
 * [Comments](./17-index.html)
+* [link your logo](./18-index.html)
   
