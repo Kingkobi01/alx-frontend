@@ -2,5 +2,5 @@
 
 Frontend Development for ALX SE Program
 
-* [Create your first webpage](./0-index.html)
+* [0x00. Advanced HTML](./0x00-html_advanced/README.md)
   
