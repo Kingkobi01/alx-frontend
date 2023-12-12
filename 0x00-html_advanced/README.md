@@ -13,4 +13,5 @@ Frontend Development for ALX SE Program
 * [Level 1 headings](./8-index.html)
 * [Level 2 headings](./9-index.html)
 * [Level 3 headings](./10-index.html)
+* [styleguide](./11-styleguide.html)
   
