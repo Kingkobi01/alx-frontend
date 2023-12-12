@@ -18,4 +18,5 @@ Frontend Development for ALX SE Program
 * [styleguide paragraphs](./13-styleguide.html)
 * [Span](./14-index.html)
 * [Div](./15-index.html)
+* [Structure your sections](./16-index.html)
   
