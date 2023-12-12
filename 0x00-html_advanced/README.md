@@ -7,5 +7,6 @@ Frontend Development for ALX SE Program
 * [The head - meta charset, viewport, title, description, favicons](./2-index.html)
 * [Simple header, main, footer](./3-index.html)
 * [Aside](./article.html)
-* [ection](./5-index.html)
+* [Section](./5-index.html)
+* [Work, News, Testimonial articles](./6-index.html)
   
