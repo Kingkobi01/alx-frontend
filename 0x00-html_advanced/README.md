@@ -32,4 +32,5 @@ Frontend Development for ALX SE Program
 * [Secondary navigation menu](./25-index.html)
 * [Examples of lists for the styleguide](./26-styleguide.html)
 * [Separate content](./27-index.html)
+* [Horizontal rule example](./28-styleguide.html)
   
