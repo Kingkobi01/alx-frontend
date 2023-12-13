@@ -26,4 +26,5 @@ Frontend Development for ALX SE Program
 * [Create new pages](./latest_news.html)(latest news)
 * [Add links](./20-index.html)
 * [Add social media links](./21-index.html)
+* ["Button" links](./22-index.html)
   
