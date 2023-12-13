@@ -30,4 +30,5 @@ Frontend Development for ALX SE Program
 * [Services, Works, Latest news links](./23-index.html)
 * [List the links](./24-index.html)
 * [Secondary navigation menu](./25-index.html)
+* [Examples of lists for the styleguide](./26-styleguide.html)
   
