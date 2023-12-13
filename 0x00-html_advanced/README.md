@@ -35,4 +35,5 @@ Frontend Development for ALX SE Program
 * [Horizontal rule example](./28-styleguide.html)
 * [Client quotes](./29-index.html)
 * [Examples of quotes](./30-styleguide.html)
+* [Address and latest news authors](./31-index.html)
   
