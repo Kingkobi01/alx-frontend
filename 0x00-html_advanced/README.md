@@ -39,4 +39,5 @@ Frontend Development for ALX SE Program
 * [Typography section - using the correct tags](./32-styleguide.html)
 * [Table](./33-styleguide.html)
 * [Details](./34-styleguide.html)
+* [Replace text logo with image logo](./35-index.html)
   
