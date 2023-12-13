@@ -21,4 +21,7 @@ Frontend Development for ALX SE Program
 * [Structure your sections](./16-index.html)
 * [Comments](./17-index.html)
 * [link your logo](./18-index.html)
+* [Create new pages](./about.html)(About)
+* [Create new pages](./contact.html)(Contact)
+* [Create new pages](./latest_news.html)(latest news)
   
