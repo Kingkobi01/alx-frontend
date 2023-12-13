@@ -40,4 +40,5 @@ Frontend Development for ALX SE Program
 * [Table](./33-styleguide.html)
 * [Details](./34-styleguide.html)
 * [Replace text logo with image logo](./35-index.html)
+* [Add images to your sections](./36-index.html)
   
