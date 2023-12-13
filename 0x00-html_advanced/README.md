@@ -37,4 +37,5 @@ Frontend Development for ALX SE Program
 * [Examples of quotes](./30-styleguide.html)
 * [Address and latest news authors](./31-index.html)
 * [Typography section - using the correct tags](./32-styleguide.html)
+* [Table](./33-styleguide.html)
   
