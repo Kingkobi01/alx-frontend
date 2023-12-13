@@ -33,4 +33,5 @@ Frontend Development for ALX SE Program
 * [Examples of lists for the styleguide](./26-styleguide.html)
 * [Separate content](./27-index.html)
 * [Horizontal rule example](./28-styleguide.html)
+* [Client quotes](./29-index.html)
   
