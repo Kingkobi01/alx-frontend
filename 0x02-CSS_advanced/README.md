@@ -9,3 +9,4 @@
 7. [Integrating Google Fonts into the CSS file](./styles/7-style.css)
 8. [Defining line heights](./styles/8-style.css)
 9. [Links are decorated by default, time to remove them](./styles/8-style.css)
+10. [Centering the section titles](./styles/10-style.css)
