@@ -20,3 +20,4 @@
 18. [Customizing the navbar](./styles/18-style.css)
 19. [Grid styling and custom variables](./styles/19-style.css)
 20. [Clear the context of the grid](./styles/20-style.css)
+21. [Simplify the col- selector](./styles/21-style.css)
