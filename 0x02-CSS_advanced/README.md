@@ -10,3 +10,4 @@
 8. [Defining line heights](./styles/8-style.css)
 9. [Links are decorated by default, time to remove them](./styles/8-style.css)
 10. [Centering the section titles](./styles/10-style.css)
+11. [Add more styles to the section tagline](./styles/11-style.css)
