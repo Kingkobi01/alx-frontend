@@ -6,3 +6,4 @@
 4. [Variables for storing certain font types](./styles/4-style.css)
 5. [Variables for the font size](./styles/5-style.css)
 6. [Variables for the font-weight](./styles/6-style.css)
+7. [Integrating Google Fonts into the CSS file](./styles/7-style.css)
