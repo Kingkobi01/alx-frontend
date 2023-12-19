@@ -17,3 +17,4 @@
 15. [Add universal box-sizing](./styles/15-style.css)
 16. [Styling the container](./styles/16-style.css)
 17. [Adding padding to sections](./styles/17-style.css)
+18. [Customizing the navbar](./styles/18-style.css)
