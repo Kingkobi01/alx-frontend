@@ -8,3 +8,4 @@
 6. [Variables for the font-weight](./styles/6-style.css)
 7. [Integrating Google Fonts into the CSS file](./styles/7-style.css)
 8. [Defining line heights](./styles/8-style.css)
+9. [Links are decorated by default, time to remove them](./styles/8-style.css)
