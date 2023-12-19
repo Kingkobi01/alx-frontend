@@ -13,3 +13,4 @@
 11. [Add more styles to the section tagline](./styles/11-style.css)
 12. [Adding more styling to the section title](./styles/12-style.css)
 13. [Pseudo Classes](./styles/13-style.css)
+14. [Resetting the CSS stylesheet for browser consistency](./styles/14-style.css)
