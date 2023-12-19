@@ -14,3 +14,4 @@
 12. [Adding more styling to the section title](./styles/12-style.css)
 13. [Pseudo Classes](./styles/13-style.css)
 14. [Resetting the CSS stylesheet for browser consistency](./styles/14-style.css)
+15. [Add universal box-sizing](./styles/15-style.css)
