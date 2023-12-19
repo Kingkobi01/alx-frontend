@@ -15,3 +15,4 @@
 13. [Pseudo Classes](./styles/13-style.css)
 14. [Resetting the CSS stylesheet for browser consistency](./styles/14-style.css)
 15. [Add universal box-sizing](./styles/15-style.css)
+16. [Styling the container](./styles/16-style.css)
