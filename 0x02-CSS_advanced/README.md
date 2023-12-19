@@ -23,3 +23,5 @@
 21. [Simplify the col- selector](./styles/21-style.css)
 22. [Add a dark theme to sections](./styles/22-style.css)
 23. [Fix issues for dark theme](./styles/23-style.css)
+24. [Add background and hover state to services](./styles/24-style.css)
+25. [Add border to the button](./styles/25-style.css)
