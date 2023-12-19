@@ -26,3 +26,4 @@
 24. [Add background and hover state to services](./styles/24-style.css)
 25. [Add border to the button](./styles/25-style.css)
 26. [Add border radius to images](./styles/26-style.css)
+27. [Styling the section hero](./styles/27-style.css)
