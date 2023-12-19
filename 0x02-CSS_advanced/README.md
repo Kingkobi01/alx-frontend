@@ -18,3 +18,4 @@
 16. [Styling the container](./styles/16-style.css)
 17. [Adding padding to sections](./styles/17-style.css)
 18. [Customizing the navbar](./styles/18-style.css)
+19. [Grid styling and custom variables](./styles/19-style.css)
