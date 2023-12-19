@@ -7,3 +7,4 @@
 5. [Variables for the font size](./styles/5-style.css)
 6. [Variables for the font-weight](./styles/6-style.css)
 7. [Integrating Google Fonts into the CSS file](./styles/7-style.css)
+8. [Defining line heights](./styles/8-style.css)
